@@ -6,7 +6,7 @@ git clone https://github.com/ultralytics/yolov5.git
 ```
 Download fall detection model 
 
-Clone this repo and move all files and downloaded model into cloned yolov5 repo
+Clone this repo and move downloaded model and fall_detection.py into  cloned yolov5 base directory while plots.py to ./utils folder
 
 CD into directory and create and activate virtual environment:
 ```

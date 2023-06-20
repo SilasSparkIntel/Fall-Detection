@@ -4,7 +4,7 @@ Clone yolov5 by Ultralytics repo:
 ```
 git clone https://github.com/ultralytics/yolov5.git
 ```
-Download fall detection model 
+Download fall detection model https://drive.google.com/file/d/1-zZa93kQQMS6MD6Z16QXkhDHdq6fhbuQ/view?usp=sharing
 
 Clone this repo and move downloaded model and fall_detection.py into  cloned yolov5 base directory while plots.py to ./utils folder
 
